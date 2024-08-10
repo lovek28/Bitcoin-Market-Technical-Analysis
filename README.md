@@ -98,12 +98,8 @@ The datasets used in this project can be downloaded from the following links:
 
 ## Contributors
 
-- [Your Name](https://github.com/your_username)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace the placeholder paths for images with the actual paths to your visualizations once they are uploaded to the repository.
+- Love(https://github.com/lovek28)
+- Aniket Gupta(https://github.com/aniketgupta97)
+- Abhishek Trivedi(https://github.com/abhishek221188)
+- Darshan Patel(https://github.com/drp7122000)
+- Harsh Arora(https://github.com/har0121)
