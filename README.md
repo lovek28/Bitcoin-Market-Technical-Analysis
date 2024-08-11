@@ -102,4 +102,4 @@ The datasets used in this project can be downloaded from the following links:
 - Aniket Gupta(https://github.com/aniketgupta97)
 - Abhishek Trivedi(https://github.com/abhishek221188)
 - Darshan Patel(https://github.com/drp7122000)
-- Harsh Arora(https://github.com/har0121)
+
